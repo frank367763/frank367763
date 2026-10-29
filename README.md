@@ -1,16 +1,17 @@
-## Hi there 👋
+<img src="assets/header.svg" alt="Вадим Козюков — приложения, тесты, проектирование" width="100%" />
 
-<!--
-**frank367763/frank367763** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я Вадим. Учусь на выпускном курсе ПГУ, на направлении «Математическое обеспечение и администрирование информационных систем». Сейчас ищу первую работу по специальности.
 
-Here are some ideas to get you started:
+За время учёбы работал с C#, Java, C++, JavaScript и SQL: делал приложения, разбирался с алгоритмами, проектированием систем и тестированием. Здесь собрал несколько работ, которые лучше показывают, чем я занимался.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Что посмотреть
+
+| Проект | Что внутри |
+| :--- | :--- |
+| [Nexus Studio](https://github.com/frank367763/nexus-studio) | Аудиоприложение на C# и WPF: запись, сэмплы, три дорожки и экспорт микса. |
+| [ArrayLab](https://github.com/frank367763/array-lab) | Windows Forms, импорт TXT/XLSX, обработка массива и тесты MSTest. |
+| [Game of Life](https://github.com/frank367763/Life_game2) | Клеточный автомат на C++ с графикой SDL2. Одна из более ранних работ. |
+
+Мне интересно понимать, как устроена задача: от требований и модели данных до работающего приложения и проверки результата. Использую AI-инструменты, в том числе Codex, для работы с кодом и обучения.
+
+Рассматриваю стажировку или junior-позицию в разработке, тестировании либо системном анализе. Готов выполнить тестовое и обсудить свои проекты.

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img" aria-label="Вадим Козюков. Приложения, тесты, проектирование">
+<rect width="1200" height="290" rx="18" fill="#172229"/>
+<path d="M820 20V270M900 20V270M980 20V270M1060 20V270M1140 20V270M780 65H1180M780 145H1180M780 225H1180" stroke="#28373f" stroke-width="1"/>
+<path d="M792 180h35v-38h28v71h28v-117h28v146h28v-184h28v184h28v-146h28v117h28v-71h28v38h35" fill="none" stroke="#74c6b0" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="50" y="50" width="44" height="5" rx="2" fill="#74c6b0"/>
+<text x="50" y="130" font-family="Segoe UI,Arial,sans-serif" font-size="54" font-weight="600" fill="#f1f3ef">Вадим Козюков</text>
+<text x="52" y="183" font-family="Segoe UI,Arial,sans-serif" font-size="23" fill="#bac7cc">Приложения · тесты · проектирование</text>
+<text x="52" y="240" font-family="Consolas,monospace" font-size="16" letter-spacing="2" fill="#74c6b0">C# / C++ / JAVA / SQL</text>
+</svg>
