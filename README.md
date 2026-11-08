@@ -9,5 +9,5 @@
 
 <sub>в работе</sub>
 
-- Quest · приложение для Android на Java
-- SystemAnal · классификация состояния воздуха на Python и scikit-learn
+- [Quest](https://github.com/frank367763/quest) · викторина для Android на Java
+- [SystemAnal](https://github.com/frank367763/system-anal) · классификация состояния воздуха на Python и scikit-learn
