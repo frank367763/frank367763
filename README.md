@@ -10,4 +10,4 @@
 <sub>в работе</sub>
 
 - [Quest](https://github.com/frank367763/quest) · викторина для Android на Java
-- [SystemAnal](https://github.com/frank367763/system-anal) · классификация состояния воздуха на Python и scikit-learn
+- [Office Air Monitor](https://github.com/frank367763/office-air-monitor) · классификация состояния воздуха на Python и scikit-learn
